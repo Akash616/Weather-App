@@ -1,7 +1,7 @@
 # Weather-App
 
 Its my first app and I developed using flutter framework.
-Data coming from API https://openweathermap.org/
+Data coming from API https://openweathermap.org/ .
 I have use these dependencies: - 
   get: ^4.6.5
   velocity_x: ^3.6.0
