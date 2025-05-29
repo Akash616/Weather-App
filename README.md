@@ -9,8 +9,10 @@ I have use these dependencies: -
   http: ^0.13.5
   geolocator: ^9.0.2
 
-![img1](https://user-images.githubusercontent.com/66737001/233956650-75287818-06ae-4803-bccb-1c15cd13e1a8.png)
+## Screenshots
 
-![img2](https://user-images.githubusercontent.com/66737001/233956680-bc8ac5d9-b4af-4301-a870-815094ec4ac9.png)
-
-![img3](https://user-images.githubusercontent.com/66737001/233956703-d863a61d-47da-4ee2-9919-57617bdb0166.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/66737001/233956650-75287818-06ae-4803-bccb-1c15cd13e1a8.png" alt="home_screen" width="45%">
+    <img src="https://user-images.githubusercontent.com/66737001/233956680-bc8ac5d9-b4af-4301-a870-815094ec4ac9.png" alt="home_screen" width="45%">
+    <img src="https://user-images.githubusercontent.com/66737001/233956703-d863a61d-47da-4ee2-9919-57617bdb0166.png" alt="home_screen" width="45%">
+</p>
